@@ -35,7 +35,7 @@ int star_two_day_two(size_t length, const char** data)
 	return 0;
 }
 
-void day_02(void)
+void day_02()
 {
 	char* data_path = "C:\\Users\\marku\\Code\\C\\advent\\data\\day_02.txt";
 

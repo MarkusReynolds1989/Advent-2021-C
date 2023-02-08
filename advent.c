@@ -1,6 +1,6 @@
 #include "day_02.h"
 
-int main(void)
+int main()
 {
 	day_02();
 }
